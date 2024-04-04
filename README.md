@@ -1,4 +1,6 @@
-<img src="file:///C:/Users/stefa/Downloads/Stefano%20Lorato%20(1).pdf" width="840" height="200" allow="autoplay">
+![Stefano-Lorato-_1_](https://github.com/Elmatador0007/Elmatador0007/assets/145671090/a56876f6-5230-4c56-b265-60beab51114c)
+
+
 <h1 align="center">Hello 👋, I'm Stefano Pio Lorato.</h1>
 <h3 align="center">
 A data analyst with a penchant for crunching numbers and a firm belief in using data for the greater good..</h3>
