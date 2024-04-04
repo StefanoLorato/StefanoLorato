@@ -1,5 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1CAMDliFVQ_wKYQFen1ZLJziImIPnXcmY" width="840" height="200" allow="autoplay">
-<h1 align="center">Hi 👋, I'm Priyanka Jha.</h1>
+<h1 align="center">Hi 👋, I'm Stefano Pio Lorato.</h1>
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
