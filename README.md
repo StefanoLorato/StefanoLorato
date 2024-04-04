@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1CAMDliFVQ_wKYQFen1ZLJziImIPnXcmY" width="840" height="200" allow="autoplay">
+<img src="https://www.canva.com/design/DAGAKzeDDK0/bT1397g9BDkQ5bVFMsH0LQ/edit" width="840" height="200" allow="autoplay">
 <h1 align="center">Hello 👋, I'm Stefano Pio Lorato.</h1>
 <h3 align="center">
 A data analyst with a penchant for crunching numbers and a firm belief in using data for the greater good..</h3>
