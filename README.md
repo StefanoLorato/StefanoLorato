@@ -25,6 +25,6 @@ A data analyst with a penchant for crunching numbers and a firm belief in using 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElMatador0007&show_icons=true&locale=en&layout=compact" alt="ElMatador0007" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StefanoLorato&show_icons=true&locale=en&layout=compact" alt="StefanoLorato" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ElMatador0007&show_icons=true&locale=en" alt="ElMatador0007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StefanoLorato&show_icons=true&locale=en" alt="StefanoLorato" /></p>
