@@ -7,8 +7,6 @@
 A data analyst with a penchant for crunching numbers and a firm belief in using data for the greater good..</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 Learn **Python Libraries: Pandas, Pandas Wra, Numpy, Matplotlib, Seaborn, Plotly, DateTime.** from: [My Python Libraries Tutorials](https://github.com/Elmatador0007/Python-Libraries)
-
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/Elmatador0007/Portfolio-Project)
 
 - 👨‍💻 My **Tableau** Projects are at: [Stefano Lorato - Tableau Public](https://public.tableau.com/app/profile/stefano.lorato/vizzes)
