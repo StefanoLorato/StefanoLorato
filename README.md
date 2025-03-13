@@ -5,7 +5,7 @@
 I am a Junior Developer with a strong passion for programming and a deep motivation to continuously improve my skills. ..</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/Elmatador0007/Portfolio-Project)
+- 🌱 My **Portfolio Projects** are in: [Projects Repo.](https://github.com/Elmatador0007/Portfolio-Project)
 
 - 👨‍💻 My **Tableau** Projects are at: [Stefano Lorato - Tableau Public](https://public.tableau.com/app/profile/stefano.lorato/vizzes)
 
