@@ -1,10 +1,8 @@
-<img src=>
-
 
 
 <h1 align="center">Hello 👋, I'm Stefano Pio Lorato.</h1>
 <h3 align="center">
-A data analyst with a penchant for crunching numbers and a firm belief in using data for the greater good..</h3>
+I am a Junior Developer with a strong passion for programming and a deep motivation to continuously improve my skills. ..</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/Elmatador0007/Portfolio-Project)
